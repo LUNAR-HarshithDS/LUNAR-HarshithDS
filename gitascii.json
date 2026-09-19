@@ -6,7 +6,7 @@
       "name": "Header Widget",
       "position": {
         "x": 0,
-        "y": 4
+        "y": 2
       },
       "size": {
         "width": 800,
@@ -27,14 +27,20 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 296,
-        "y": 106
+        "y": 104
       },
       "size": {
         "width": 504,
         "height": 280
       },
       "config": {
-        "animationEasing": "ease-in"
+        "animationEasing": "ease-in",
+        "headerColor": "#00ff88",
+        "labelColor": "#55ffff",
+        "dotColor": "#2e4c38",
+        "valueColor": "#e6edf3",
+        "statsValColor": "#00ff88",
+        "dividerColor": "#1a2e22"
       },
       "locked": false,
       "visible": true,
@@ -46,7 +52,7 @@
       "name": "Languages Widget",
       "position": {
         "x": 132,
-        "y": 402
+        "y": 400
       },
       "size": {
         "width": 536,
@@ -66,7 +72,7 @@
       "name": "Premium-ascii-profile-card Widget",
       "position": {
         "x": 132,
-        "y": 676
+        "y": 674
       },
       "size": {
         "width": 520,
@@ -100,7 +106,7 @@
       "name": "Asciiprofile-portrait Widget",
       "position": {
         "x": 32,
-        "y": 114
+        "y": 112
       },
       "size": {
         "width": 240,
@@ -11603,7 +11609,7 @@
       "name": "Asciiprofile-heatmap Widget",
       "position": {
         "x": 48,
-        "y": 1116
+        "y": 1114
       },
       "size": {
         "width": 728,
@@ -11623,7 +11629,7 @@
       "name": "Godprofile-marquee Widget",
       "position": {
         "x": 0,
-        "y": 562
+        "y": 560
       },
       "size": {
         "width": 800,
@@ -11652,7 +11658,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1789788040488_12w1l",
-    "updatedAt": "2026-09-19T03:20:42.399Z"
+    "revision": "rev_1789804258080_6jfvq",
+    "updatedAt": "2026-09-19T07:51:01.069Z"
   }
 }
